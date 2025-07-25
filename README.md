@@ -3,6 +3,7 @@ To be uploaded
 
 A mysterious and advanced embedded project, currently in an intense Work-In-Progress phase.
 It includes multiple modules working together and several types of data transmission.
+Project uses almost every available BluePill's I/O pins.
 A lightweight, custom quasi-OS is already running on it.
 
 MCU: STM32F103C8T6
